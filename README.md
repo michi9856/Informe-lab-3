@@ -1,5 +1,4 @@
-# Informe-lab-3
-# Labotario-3
+# Informe-Labotario-3
 Fundamentos de Circuitos Eléctricos
 
 Integrantes:
